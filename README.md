@@ -1,5 +1,5 @@
 # FLARE: Federated Learning And Resilient Encryption for Firewalls
-> This repository serves as the official codebase for the paper FLARE: Federated Learning And Resilient Encryption for Firewalls. The official research paper can be found at ```To be published```
+> This repository serves as the official codebase for the paper FLARE: Federated Learning And Resilient Encryption for Firewalls. The official research paper can be found at ```https://doi.org/10.1109/PuneCon63413.2024.10895282```
 
 FLARE is a novel approach to redefine the design of firewalls. Traditional firewalls generally rely on static rule sets, which can be exploited by advanced algorithms. This issue was addressed with the introduction of machine learning-based firewalls, which adapt to dynamic threats by learning patterns and behaviors from network traffic. However, these firewalls face challenges in data privacy and security, as the training data often contains sensitive information. FLARE mitigates this by integrating federated learning and resilient encryption, ensuring that the firewall can learn from distributed data sources without compromising the confidentiality of the data, thus enhancing both security and performance.
 
